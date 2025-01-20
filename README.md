@@ -1,2 +1,3 @@
 # streamlit-shorturl
-Streamlit short-url application with real-time analytics
+
+Streamlit short-url application with analytics.
